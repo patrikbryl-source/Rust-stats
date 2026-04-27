@@ -1,14 +1,14 @@
 {
   "76561197961469124": {
-    "name": "Minato",
-    "kills": 0,
     "deaths": 7,
-    "minutes": 215
+    "kills": 0,
+    "minutes": 241,
+    "name": "Minato"
   },
   "76561197970267653": {
     "name": "Juby",
-    "kills": 2,
+    "kills": 0,
     "deaths": 0,
-    "minutes": 61
+    "minutes": 62
   }
 }
