@@ -1,1 +1,8 @@
-{ "123456789": { "name": "TEST PLAYER", "kills": 99, "deaths": 12, "minutes": 500 } }
+{
+  "76561197961469124": {
+    "name": "Minato",
+    "kills": 0,
+    "deaths": 0,
+    "minutes": 0
+  }
+}
