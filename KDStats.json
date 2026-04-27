@@ -1,1 +1,8 @@
-{ "1": { "name": "Alpha", "kills": 120, "deaths": 20, "minutes": 1800 }, "2": { "name": "Bravo", "kills": 110, "deaths": 25, "minutes": 1600 }, "3": { "name": "Charlie", "kills": 95, "deaths": 30, "minutes": 1400 }, "4": { "name": "Delta", "kills": 80, "deaths": 18, "minutes": 1300 }, "5": { "name": "Echo", "kills": 70, "deaths": 22, "minutes": 1200 }, "6": { "name": "Foxtrot", "kills": 60, "deaths": 28, "minutes": 1100 }, "7": { "name": "Ghost", "kills": 50, "deaths": 35, "minutes": 900 } }
+{
+  "76561197961469124": {
+    "deaths": 0,
+    "kills": 0,
+    "minutes": 0,
+    "name": "Minato"
+  }
+}
